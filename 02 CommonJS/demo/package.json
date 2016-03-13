@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "npm modules test",
+  "main": "01_self.js",
+  "scripts": {
+    "test": "node 03_npm_module.js"
+  },
+  "author": "Byron",
+  "license": "MIT",
+  "dependencies": {
+    "less": "~2.6.1"
+  }
+}
