@@ -6,5 +6,18 @@
 
 ## CommonJS
 
+### require
+
+### exports & module.exports
+
+
+
+
+
+
+## 
+
+
+
 
 
